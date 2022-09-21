@@ -6,4 +6,4 @@ resources:
 images:
 - name: ghcr.io/argocon2022-workshop/demo-app
   newName: ghcr.io/nikita-akuity/demo-app
-  newTag: bb8394e7879d2ff74938fa5305dc841ea7abd2ba
+  newTag: 2d52138d0f1a3b1b9e357eb83f38ee0f36ae70ef
