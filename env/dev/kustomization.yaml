@@ -3,3 +3,7 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/argocon2022-workshop/demo-app
+  newName: ghcr.io/nikita-akuity/demo-app
+  newTag: bb8394e7879d2ff74938fa5305dc841ea7abd2ba
